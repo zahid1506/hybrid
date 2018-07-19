@@ -1,0 +1,26 @@
+ What is a test framework?
+
+In general, a framework is an entity which binds several modules in a logical sequence to cover the end-to-end flows of an application. 
+The objective of investing into a framework is to test a product which has a recurring roadmap and regular release cycle.
+
+A set of guidelines like coding standards , test-data handling , object repository treatment etc...
+ which when followed during automation scripting produce beneficial outcomes like increase code re-usage , higher portability , 
+ reduced script maintenance cost etc. Mind you these are just guidelines and not rules; they are not mandatory and you can still script 
+ without following the guidelines. But you will miss out on the advantages of having a Framework
+
+ 
+What are the apparent advantages of a test framework?
+
+Following are the possible benefits of using a test framework.
+
+1- It reduces the complexity of using a variety of technologies inculcated in a product.
+
+2- It organizes the unit and functional testing efforts of a developer and tester.
+
+3- Provides early feedback on the quality of the code.
+
+4- Helps in tracking test coverage as well as code coverage.
+
+5- Results in easy debugging and reduces chances of errors.
+
+ 

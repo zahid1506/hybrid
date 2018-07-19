@@ -1,0 +1,12 @@
+1. Import the jar ( log4j.jar)
+2. Place the Log4j.xml (under the project)---> it holds information of 
+
+	1. where to create a log file (path) (you need to change according to the ur project path)
+	2. In which formate you want logs
+	3. do you want to append the text or not
+
+3. Intialize the Log4j class
+
+		public static Logger log = Logger.getLogger("CreateLogs");
+		BasicConfigurator.configure();
+		DOMConfigurator.configure("Log4j.xml");
